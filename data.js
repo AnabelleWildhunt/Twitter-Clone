@@ -1,1 +1,1 @@
-const logs = []
+const tweetsData = []
